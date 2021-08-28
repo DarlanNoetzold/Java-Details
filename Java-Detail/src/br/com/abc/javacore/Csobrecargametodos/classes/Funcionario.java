@@ -1,8 +1,6 @@
 package br.com.abc.javacore.Csobrecargametodos.classes;
 
-/**
- * Created by William Suane on 4/6/2016.
- */
+
 public class Funcionario {
     private String nome;
     private String cpf;
