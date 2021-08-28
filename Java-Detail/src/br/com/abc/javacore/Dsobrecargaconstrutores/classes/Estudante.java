@@ -1,8 +1,5 @@
 package br.com.abc.javacore.Dsobrecargaconstrutores.classes;
 
-/**
- * Created by William Suane on 4/13/2016.
- */
 public class Estudante {
     private String matricula;
     private String nome;
