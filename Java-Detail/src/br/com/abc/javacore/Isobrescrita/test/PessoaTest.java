@@ -2,9 +2,6 @@ package br.com.abc.javacore.Isobrescrita.test;
 
 import br.com.abc.javacore.Isobrescrita.classes.Pessoa;
 
-/**
- * Created by William Suane on 5/11/2016.
- */
 public class PessoaTest {
     public static void main(String[] args) {
         Pessoa p = new Pessoa();

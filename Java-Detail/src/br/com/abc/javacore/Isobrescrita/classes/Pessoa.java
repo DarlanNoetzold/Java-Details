@@ -1,8 +1,5 @@
 package br.com.abc.javacore.Isobrescrita.classes;
 
-/**
- * Created by William Suane on 5/11/2016.
- */
 public class Pessoa{
     private String nome;
     private int idade;
