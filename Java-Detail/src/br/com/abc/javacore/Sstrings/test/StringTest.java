@@ -2,9 +2,9 @@ package br.com.abc.javacore.Sstrings.test;
 
 public class StringTest {
     public static void main(String[] args) {
-        String nome = "William";
-        nome = nome.concat(" Suane"); // nome += " Suane";
-        String nome2 = "William";
+        String nome = "Darlan";
+        nome = nome.concat(" tESTE"); // nome += " Suane";
+        String nome2 = "Darlan";
         String nome3 = new String("Catarina"); //1 variavel de referencia, 2 - um objeto do tipo string, 3 - Uma string no pool de String
 
         String teste = " Goku";
