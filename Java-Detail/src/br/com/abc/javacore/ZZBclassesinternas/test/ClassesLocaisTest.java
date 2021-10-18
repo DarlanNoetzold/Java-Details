@@ -1,13 +1,13 @@
 package br.com.abc.javacore.ZZBclassesinternas.test;
 
 public class ClassesLocaisTest {
-    private String nome = " Darlan";
+    private String nome1 = " Darlan";
 
     public void fazAlgumaCoisa() {
-        String sobrenome = "Noetzold";
+        String sobrenome1 = "Noetzold";
         class Interna {
             public void imprimeNomeExterno() {
-                System.out.println(nome);
+                System.out.println(nome1);
             }
         }
         Interna in = new Interna();
