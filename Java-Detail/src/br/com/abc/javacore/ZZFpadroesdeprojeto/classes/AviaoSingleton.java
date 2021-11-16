@@ -3,9 +3,6 @@ package br.com.abc.javacore.ZZFpadroesdeprojeto.classes;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by William Suane on 11/11/2016.
- */
 public class AviaoSingleton {
     // EAGER INITIALIZATION
 //    private static final AviaoSingleton INSTANCE = new AviaoSingleton();
