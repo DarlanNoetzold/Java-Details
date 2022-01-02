@@ -1,8 +1,5 @@
 package br.com.abc.javacore.Oexception.runtimeexception.test;
 
-/**
- * Created by William Suane on 6/8/2016.
- */
 public class RuntimeExceptionTest {
     public static void main(String[] args) {
 //        try{

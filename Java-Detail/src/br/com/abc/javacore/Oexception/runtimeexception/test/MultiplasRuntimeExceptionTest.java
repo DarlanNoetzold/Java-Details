@@ -4,9 +4,6 @@ import java.awt.*;
 import java.io.IOException;
 import java.sql.SQLException;
 
-/**
- * Created by William Suane on 6/16/2016.
- */
 public class MultiplasRuntimeExceptionTest {
     public static void main(String[] args) {
         try {
