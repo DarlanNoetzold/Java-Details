@@ -6,7 +6,7 @@ public class BlockingQueueTest {
     public static void main(String[] args) throws InterruptedException {
         BlockingQueue<String> bq = new ArrayBlockingQueue<>(1);
         Thread t1 = new Thread(new RemoveFromQueue(bq));
-        bq.put("William");
+        bq.put("Darlan");
         System.out.println(bq.peek());
         System.out.println("Tentando colocar outro valor");
         t1.start();
