@@ -10,8 +10,8 @@ import static java.util.Arrays.asList;
 
 public class LambdaTest2 {
     public static void main(String[] args) {
-        forEach(asList("William", "DevDojo", "facebook.com/devdojobr"), (String s) -> System.out.println(s));
-        List<Integer> list = map(asList("William", "DevDojo", "facebook.com/devdojobr"), (String s) -> s.length());
+        forEach(asList("Darlan", "Dev", "facebook.com"), (String s) -> System.out.println(s));
+        List<Integer> list = map(asList("Darlan", "Dev", "facebook.com"), (String s) -> s.length());
         List<Carro> carros = asList(new Carro("Preto", 2011), new Carro("Preto", 2011), new Carro("Preto", 2011));
         List<String> listCores = map(carros, (Carro c) -> c.getCor());
         System.out.println(list);
